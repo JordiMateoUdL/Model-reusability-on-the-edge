@@ -34,5 +34,5 @@ The response variable is a linear combination of the generated input set.
 
 We use a simple trick to generate synthetic data similar to the original one. We develop from different random_states, and we add or subtract this linear combination generated from the original dataset.
 
-Check the code in this [Jupyter notebook](https://github.com/JordiMateoUdL/Model-reusability-on-the-edge/blob/master/notebooks/Generating%20synthethic%20data%20%3F.ipynb).
+Check the code in this [Jupyter notebook](https://github.com/JordiMateoUdL/Model-reusability-on-the-edge/blob/master/notebooks/Generating%20synthethic%20data.ipynb).
 
