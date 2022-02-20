@@ -8,6 +8,14 @@ In the context of edge computing, model reusability can be defined as the abilit
 
 * [Github snippet](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_numpy_sklearn.py
 
+
+## Datasets
+
+* **GNFUV Unmanned Surface Vehicles Sensor Data**: These datasets contains data of mobile sensor readings (humidity, temperature) corresponding to a swarm of four Unmanned Surface Vehicles (USVs) in a test-bed, Athens, Greece.
+
+  * [GNFUV Unmanned Surface Vehicles Sensor Data Data Set 1](https://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data)
+  * [GNFUV Unmanned Surface Vehicles Sensor Data Data Set 2](https://archive.ics.uci.edu/ml/datasets/GNFUV+Unmanned+Surface+Vehicles+Sensor+Data+Set+2)
+
 ## Implementation
 
 ### Generating synthetic datasets
