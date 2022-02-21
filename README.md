@@ -8,6 +8,12 @@ In the context of edge computing, model reusability can be defined as the abilit
 
 * [Github snippet](https://github.com/jindongwang/transferlearning/blob/master/code/distance/mmd_numpy_sklearn.py
 
+### Support Vector Regression
+
+Support vector regression is a regression algorithm that supports (linear and non-linear). The main difference between SVM and SVR is that SVM is used for predicting discrete categorical labels while SVR is a regressor for predicting continuous ordered variables.
+
+Examples and explication in [Jupyter Notebook]();
+
 
 ## Datasets
 
